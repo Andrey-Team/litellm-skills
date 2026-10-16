@@ -1,0 +1,9 @@
+{
+  "name": "litellm-skills",
+  "version": "0.1.0",
+  "description": "Official LiteLLM agent skills (BerriAI/litellm-skills) for managing a live LiteLLM proxy: users, teams, keys, orgs, models, MCP servers, agents, usage. Packaged as a Claude Code plugin for the Cellcard AIOps gateway marketplace.",
+  "author": {"name": "BerriAI", "url": "https://github.com/BerriAI/litellm-skills"},
+  "repository": "https://github.com/BerriAI/litellm-skills",
+  "license": "MIT",
+  "skills": "./"
+}
